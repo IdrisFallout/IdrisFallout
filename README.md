@@ -24,8 +24,8 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/samuel.jackey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samuel.jackey#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/icons8-gmail.svg)](mailto:waithakasam2017@gmail.com#gh-light-mode-only)
-[![website](./img/icons8-gmail.svg)](mailto:waithakasam2017@gmail.com#gh-dark-mode-only)
+[![website](./img/gmail-icon.svg)](mailto:waithakasam2017@gmail.com#gh-light-mode-only)
+[![website](./img/gmail-icon.svg)](mailto:waithakasam2017@gmail.com#gh-dark-mode-only)
 
 ---
 
@@ -40,8 +40,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.github.com/IdrisFallout)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
-
-<a target="_blank" href="https://icons8.com/icon/qyRpAggnV0zH/gmail">Gmail</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <br />
 <br />
