@@ -31,7 +31,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vssite]
+[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][jupytersite]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][htmlfive]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][csssite]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jssite]
@@ -68,7 +68,7 @@
 [website]: http://www.waithakasam.tk
 [twitter]: https://twitter.com/SamwelWaithak10
 [instagram]: https://instagram.com/samuel.jackey
-[vssite]: https://code.visualstudio.com
+[jupytersite]: https://jupyter.org
 [htmlfive]: https://html5up.net
 [jssite]: https://www.javascript.com
 [sqlsite]: https://www.mysql.com
