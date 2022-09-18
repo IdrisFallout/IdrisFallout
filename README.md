@@ -23,6 +23,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/samuel.jackey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samuel.jackey#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/icons8-gmail.svg)](mailto:waithakasam2017@gmail.com#gh-light-mode-only)
+[![website](./img/icons8-gmail.svg)](mailto:waithakasam2017@gmail.com#gh-dark-mode-only)
 
 ---
 
