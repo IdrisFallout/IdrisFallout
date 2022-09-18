@@ -41,6 +41,8 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 
+<a target="_blank" href="https://icons8.com/icon/qyRpAggnV0zH/gmail">Gmail</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
 <br />
 <br />
 
