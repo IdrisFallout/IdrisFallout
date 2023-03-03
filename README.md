@@ -1,7 +1,7 @@
 # Hi there, I'm Samwel - gamerTag [IdrisFallout][Website] 👋 
 
 [![Website](https://img.shields.io/website?down_message=unstable&label=waithakasam.tk&style=for-the-badge&up_message=online&url=http%3A%2F%2Fwaithakasam.tk)](http://waithakasam.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SamwelWaithak10?label=TWITTER%20FOLLOW&style=for-the-badge)](https://twitter.com/SamwelWaithak10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SamwelWaithak10?label=TWITTER%20FOLLOW&style=for-the-badge)](https://twitter.com/IdrisFallout)
 
 
 
