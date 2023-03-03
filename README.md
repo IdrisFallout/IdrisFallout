@@ -7,9 +7,9 @@
 
 ## I'm a developer who is passionate about writing Code
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning networking
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about AI and Machine Learning
+- 🥅 2023 Goals: Learn more about AI and Machine Learning
 - ⚡ Fun fact: I'm into 3d and game development
 - 😻 Check out the my website for arts I created: [Portfolio](https://nodemcu-website.pages.dev/art)
 
