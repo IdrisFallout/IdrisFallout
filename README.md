@@ -18,8 +18,8 @@
 [![website](./img/globe-light.svg)](http://www.waithakasam.tk#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://www.waithakasam.tk#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/SamwelWaithak10#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/SamwelWaithak10#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/IdrisFallout#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/IdrisFallout#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/samuel.jackey#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samuel.jackey#gh-dark-mode-only)
@@ -67,7 +67,7 @@
 </details>
 
 [website]: http://www.waithakasam.tk
-[twitter]: https://twitter.com/SamwelWaithak10
+[twitter]: https://twitter.com/IdrisFallout
 [instagram]: https://instagram.com/samuel.jackey
 [jupytersite]: https://jupyter.org
 [htmlfive]: https://html5up.net
