@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_message=unstable&label=waithakasam.tk&style=for-the-badge&up_message=online&url=http%3A%2F%2Fwaithakasam.tk)](http://waithakasam.tk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SamwelWaithak10?label=TWITTER%20FOLLOW&style=for-the-badge)](https://twitter.com/IdrisFallout)
-[![wakatime](https://wakatime.com/badge/github/IdrisFallout/MQTTClient.svg)](https://wakatime.com/badge/github/IdrisFallout/MQTTClient)
+[![wakatime](https://wakatime.com/badge/user/2c0646cf-caec-4711-a16a-c58ca1f2b52a.svg)](https://wakatime.com/@2c0646cf-caec-4711-a16a-c58ca1f2b52a)
 
 
 
