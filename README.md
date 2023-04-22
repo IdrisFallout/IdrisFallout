@@ -46,6 +46,7 @@
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)](https://www.arduino.cc)
 [![Micropython](https://img.shields.io/badge/-Micropython-000?&logo=Micropython)](https://micropython.org)
+[![Raspberry-pi](https://img.shields.io/badge/-Raspberry-pi-000?&logo=Raspberry-pi)](https://micropython.org)
 
 ---
 
