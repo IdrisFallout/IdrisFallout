@@ -1,7 +1,6 @@
 # Hi there, I'm Samwel - gamerTag [IdrisFallout][Website] 👋 
 
 [![Website](https://img.shields.io/website?down_color=orange&down_message=OFFLINE&style=for-the-badge&up_color=green&up_message=ONLINE&url=http%3A%2F%2Fwaithakasam.tech)](http://waithakasam.tech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/IdrisFallout?label=TWITTER%20FOLLOW&style=for-the-badge)](https://twitter.com/IdrisFallout)
 <br>[![wakatime](https://wakatime.com/badge/user/2c0646cf-caec-4711-a16a-c58ca1f2b52a.svg)](https://wakatime.com/@2c0646cf-caec-4711-a16a-c58ca1f2b52a)
 ![](https://komarev.com/ghpvc/?username=IdrisFallout&label=PROFILE+VIEWS)
 <br>
