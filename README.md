@@ -36,17 +36,17 @@
 
 [![Python](https://img.shields.io/badge/-Python-0D1117?&logo=Python)](https://www.python.org)
 [![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org)
-[![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
-[![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)](https://www.blender.org)
-[![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)](https://unity.com)
-[![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=Unreal-Engine)](https://www.unrealengine.com)
-[![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
-[![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)](https://www.arduino.cc)
-[![Micropython](https://img.shields.io/badge/-Micropython-000?&logo=Micropython)](https://micropython.org)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
+[![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?&logo=Kotlin)](https://kotlinlang.org)
+[![Git](https://img.shields.io/badge/-Git-0D1117?&logo=Git)](https://git-scm.com)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-0D1117?&logo=TensorFlow)](https://www.tensorflow.org)
+[![Blender](https://img.shields.io/badge/-Blender-0D1117?&logo=Blender)](https://www.blender.org)
+[![Unity](https://img.shields.io/badge/-Unity-0D1117?&logo=Unity)](https://unity.com)
+[![Unreal](https://img.shields.io/badge/-Unreal-0D1117?&logo=Unreal-Engine)](https://www.unrealengine.com)
+[![Jetbrains](https://img.shields.io/badge/-Jetbrains-0D1117?&logo=Jetbrains)](https://www.jetbrains.com)
+[![Arduino](https://img.shields.io/badge/-Arduino-0D1117?&logo=Arduino)](https://www.arduino.cc)
+[![Micropython](https://img.shields.io/badge/-Micropython-0D1117?&logo=Micropython)](https://micropython.org)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
 
 ---
 
