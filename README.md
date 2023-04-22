@@ -42,6 +42,7 @@
 [![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=Unreal-Engine)](https://www.unrealengine.com)
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)](https://www.arduino.cc)
+[![iot](https://img.shields.io/badge/-iot-000?&logo=iot)](https://en.wikipedia.org/wiki/Internet_of_things)
 
 ---
 
