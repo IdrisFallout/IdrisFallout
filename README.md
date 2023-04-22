@@ -43,14 +43,12 @@
 ---
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/IdrisFallout/Python) in [IdrisFallout/Python](https://github.com/IdrisFallout/Python)
 <!--END_SECTION:activity-->
 
-</details>
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
