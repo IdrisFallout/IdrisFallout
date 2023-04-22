@@ -45,6 +45,7 @@
 [![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=Unreal-Engine)](https://www.unrealengine.com)
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)](https://www.arduino.cc)
+[![Micropython](https://img.shields.io/badge/-Micropython-000?&logo=Arduino)](https://www.arduino.cc)
 
 ---
 
