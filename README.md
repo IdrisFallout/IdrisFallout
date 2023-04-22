@@ -26,18 +26,15 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/samuel.jackey#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/gmail-icon.svg)](mailto:waithakasam2017@gmail.com)
-[![website](./img/gmail-icon.svg)](mailto:waithakasam2017@gmail.com)
 
 ---
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org)
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
 
 ---
 
