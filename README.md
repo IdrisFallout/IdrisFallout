@@ -32,22 +32,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />][jupytersite]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][htmlfive]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][csssite]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />][pysite]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][sqlsite]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][gitsite]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.github.com/IdrisFallout)
-[<img align="left" alt="TenserFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](https://www.tensorflow.org)
-[<img align="left" alt="Kotlin" width="20px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org)
-
-
-<br />
-<br />
-
----
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -56,6 +40,10 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
+<br />
+<br />
+
+---
 
 
 <details>
