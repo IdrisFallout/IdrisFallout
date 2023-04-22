@@ -10,7 +10,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdrisFallout)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYt6hYd9jI2IiU4-SZj6V3Q?sub_confirmation=1)
 
-[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](https://waithakasam.tech)
+[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.tech)
 
 
 
