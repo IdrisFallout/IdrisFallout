@@ -35,6 +35,7 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
+[![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)](https://www.blender.org)
 
 ---
 
