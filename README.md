@@ -1,6 +1,6 @@
 # Hi there, I'm Samwel - gamerTag [IdrisFallout][Website] 👋 
 
-[![Website](https://img.shields.io/website?down_color=orange&down_message=OFFLINE&style=for-the-badge&up_color=green&up_message=ONLINE&url=http%3A%2F%2Fwaithakasam.tech)](http://waithakasam.tech)
+[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idrisfallout/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisfallout/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdrisFallout)
@@ -8,11 +8,6 @@
 <br>[![wakatime](https://wakatime.com/badge/user/2c0646cf-caec-4711-a16a-c58ca1f2b52a.svg)](https://wakatime.com/@2c0646cf-caec-4711-a16a-c58ca1f2b52a)
 ![](https://komarev.com/ghpvc/?username=IdrisFallout&label=PROFILE+VIEWS)
 <br>
-
-[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.tech)
-
-
-
 
 ## I'm a developer who is passionate about writing Code
 
