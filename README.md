@@ -39,10 +39,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-
-<br />
-<br />
-
 ---
 
 
