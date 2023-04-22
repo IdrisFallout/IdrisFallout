@@ -33,7 +33,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org)
 [![C++](https://img.shields.io/badge/-C%2B%2B-000?&logoColor=white)](https://www.w3schools.com/cpp/cpp_intro.asp)
-[![C#](https://img.shields.io/badge/-C%23sharp-000?&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)](https://www.tensorflow.org)
