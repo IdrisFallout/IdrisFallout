@@ -38,6 +38,7 @@
 [![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)](https://www.blender.org)
 [![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)](https://unity.com)
 [![Unreal](https://img.shields.io/badge/-Unreal-000?&logo=Unreal-Engine)](https://www.unrealengine.com)
+[![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
 
 ---
 
