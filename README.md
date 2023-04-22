@@ -67,7 +67,7 @@
 
 </details>
 
-[website]: http://www.waithakasam.tk
+[website]: http://www.waithakasam.tech
 [twitter]: https://twitter.com/IdrisFallout
 [instagram]: https://instagram.com/samuel.jackey
 [jupytersite]: https://jupyter.org
