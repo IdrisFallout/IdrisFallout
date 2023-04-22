@@ -46,7 +46,7 @@
 [![Jetbrains](https://img.shields.io/badge/-Jetbrains-000?&logo=Jetbrains)](https://www.jetbrains.com)
 [![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)](https://www.arduino.cc)
 [![Micropython](https://img.shields.io/badge/-Micropython-000?&logo=Micropython)](https://micropython.org)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
 
 ---
 
