@@ -54,6 +54,15 @@
   </a>
 </p>
 
+-------
+<div class="wrapper">
+  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=IdrisFallout&theme=tokyonight">
+  
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=IdrisFallout&show_icons=true&theme=tokyonight">
+</div>
+
+-------
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
