@@ -1,4 +1,8 @@
-# Hi there, I'm Samwel - gamerTag [IdrisFallout][Website] 👋 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Samwel%20-%20gamerTag%20IdrisFallout%20👋;I'm%20a%20developer%20who%20is%20passionate%20about%20writing%20Code;🌱%20I’m%20currently%20learning%20networking;👯%20I’m%20looking%20to%20collaborate%20with%20other%20programmers;🥅%202023%20Goals:%20Learn%20more%20about%20AI%20and%20Machine%20Learning;⚡%20Fun%20fact:%20I'm%20into%203d%20and%20game%20development;😻%20Check%20out%20the%20my%20website%20for%20arts%20I%20created:%20Portfolio;Remember%20to%20always%20satisfy%20your%20curiosity;&font=Fira%20Code&center=true&width=750&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000">
+  </a>
+</p>
 
 [![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.tech)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idrisfallout/)
@@ -47,12 +51,6 @@
 [![Arduino](https://img.shields.io/badge/-Arduino-0D1117?&logo=Arduino)](https://www.arduino.cc)
 [![Micropython](https://img.shields.io/badge/-Micropython-0D1117?&logo=Micropython)](https://micropython.org)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Samwel%20-%20gamerTag%20IdrisFallout%20👋;I'm%20a%20developer%20who%20is%20passionate%20about%20writing%20Code;🌱%20I’m%20currently%20learning%20networking;👯%20I’m%20looking%20to%20collaborate%20with%20other%20programmers;🥅%202023%20Goals:%20Learn%20more%20about%20AI%20and%20Machine%20Learning;⚡%20Fun%20fact:%20I'm%20into%203d%20and%20game%20development;😻%20Check%20out%20the%20my%20website%20for%20arts%20I%20created:%20Portfolio;Remember%20to%20always%20satisfy%20your%20curiosity;&font=Fira%20Code&center=true&width=750&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000">
-  </a>
-</p>
 
 -------
 <div class="wrapper">
