@@ -23,8 +23,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://www.waithakasam.tk#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://www.waithakasam.tk#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://www.waithakasam.tech#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](http://www.waithakasam.tech#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/IdrisFallout#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/IdrisFallout#gh-dark-mode-only)
