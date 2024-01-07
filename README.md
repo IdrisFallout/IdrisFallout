@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Remember%20to%20always%20satisfy%20your%20curiosity;&font=Fira%20Code&center=true&width=580&height=45&color=008080&vCenter=true&size=22&pause=1000">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Samwel%20-%20gamerTag%20IdrisFallout%20%F0%9F%91%8B;I'm%20a%20developer%20who%20is%20passionate%20about%20writing%20Code;🌱%20I’m%20currently%20learning%20networking;👯%20I’m%20looking%20to%20collaborate%20with%20other%20programmers;🥅%202023%20Goals:%20Learn%20more%20about%20AI%20and%20Machine%20Learning;⚡%20Fun%20fact:%20I'm%20into%203d%20and%20game%20development;😻%20Check%20out%20the%20my%20website%20for%20arts%20I%20created:%20Portfolio;Remember%20to%20always%20satisfy%20your%20curiosity;&font=Fira%20Code&center=true&width=720&height=45&color=008080&vCenter=true&size=22&pause=1000">
   </a>
 </p>
 
