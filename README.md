@@ -49,9 +49,11 @@
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0D1117?&logo=Raspberry-Pi)](https://www.raspberrypi.org)
 
 ---
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Rustacean 🦀;Dare%20To%20Dream ✨;Make%20it%20fast 🚀;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
+
 ---
 
 
