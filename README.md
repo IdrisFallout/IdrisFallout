@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about AI and Machine Learning
 - ⚡ Fun fact: I'm into 3d and game development
-- 😻 Check out the my website for arts I created: [Portfolio](https://waithaksam.com)
+- 😻 Check out the my website for arts I created: [Portfolio](https://waithakasam.com)
 
 ### Connect with me:
 
