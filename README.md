@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.tech)
+[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idrisfallout/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisfallout/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdrisFallout)
@@ -19,12 +19,12 @@
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2024 Goals: Learn more about AI and Machine Learning
 - ⚡ Fun fact: I'm into 3d and game development
-- 😻 Check out the my website for arts I created: [Portfolio](https://nodemcu-website.pages.dev/art)
+- 😻 Check out the my website for arts I created: [Portfolio](https://waithaksam.com)
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](http://www.waithakasam.tech#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://www.waithakasam.tech#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://waithakasam.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://waithakasam.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/IdrisFallout#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/IdrisFallout#gh-dark-mode-only)
@@ -61,7 +61,7 @@
 
 -------
 
-[website]: http://www.waithakasam.tech
+[website]: https://waithakasam.com
 [twitter]: https://twitter.com/IdrisFallout
 [instagram]: https://instagram.com/samuel.jackey
 [jupytersite]: https://jupyter.org
