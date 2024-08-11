@@ -32,7 +32,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/IdrisFallout#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/IdrisFallout#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/gmail-icon.svg)](mailto:waithakasam2017@gmail.com)
+[![website](./img/gmail-icon.svg)](mailto:business@waithakasam.com)
 
 ---
 
