@@ -5,9 +5,7 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idrisfallout/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisfallout/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IdrisFallout)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYt6hYd9jI2IiU4-SZj6V3Q?sub_confirmation=1)
 <br>[![wakatime](https://wakatime.com/badge/user/2c0646cf-caec-4711-a16a-c58ca1f2b52a.svg)](https://wakatime.com/@2c0646cf-caec-4711-a16a-c58ca1f2b52a)
 ![](https://komarev.com/ghpvc/?username=IdrisFallout&label=PROFILE+VIEWS)
