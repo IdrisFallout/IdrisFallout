@@ -21,8 +21,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://waithakasam.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://waithakasam.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/IdrisFallout#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/IdrisFallout#gh-dark-mode-only)
@@ -59,7 +59,7 @@
 
 -------
 
-[website]: https://waithakasam.com
+[website]: https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile
 [twitter]: https://twitter.com/IdrisFallout
 [instagram]: https://instagram.com/samuel.jackey
 [jupytersite]: https://jupyter.org
