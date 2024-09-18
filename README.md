@@ -58,7 +58,7 @@
 </div>
 
 -------
-![Tracking Pixel](https://analytics.waithakasam.com/matomo.php?idsite=2&rec=1&utm_source=github&utm_medium=readme&utm_campaign=Profile)
+![Tracking Pixel](https://analytics.waithakasam.com/matomo.php?idsite=2&rec=1&url=https://github.com/IdrisFallout&utm_source=github&utm_medium=readme&utm_campaign=Profile)
 
 [website]: https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile
 [twitter]: https://twitter.com/IdrisFallout
