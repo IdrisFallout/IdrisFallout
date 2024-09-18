@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](http://waithakasam.com)
+[![Portfolio](https://img.shields.io/badge/website-portfolio-brightgreen?style=for-the-badge)](https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisfallout/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYt6hYd9jI2IiU4-SZj6V3Q?sub_confirmation=1)
 [![wakatime](https://wakatime.com/badge/user/2c0646cf-caec-4711-a16a-c58ca1f2b52a.svg)](https://wakatime.com/@2c0646cf-caec-4711-a16a-c58ca1f2b52a)
