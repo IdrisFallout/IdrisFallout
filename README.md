@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there,%20I'm%20Samwel%20👋;Full-stack%20Developer%20%7C%20Game%20Dev%20Enthusiast;🌱%20Currently%20diving%20into%20Networking;🤝%20Open%20to%20exciting%20collaborations;🎯%202025%20Goals:%20Mastering%20AI/ML;⚡%203D%20Artist%20%26%20Game%20Developer;🎨%20Check%20out%20my%20portfolio;&font=Fira%20Code&center=true&width=750&height=45&color=FFFFFF&vCenter=true&size=22&pause=1000">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=45&lines=Hey+there%2C+I%27m+Samwel+%F0%9F%91%8B;Full-stack+Developer+%7C+Game+Dev+Enthusiast;%F0%9F%8C%B1+Currently+diving+into+Networking;%F0%9F%A4%9D+Open+to+exciting+collaborations;%F0%9F%8E%AF+2026+Goals%3A+Mastering+AI%2FML;%E2%9A%A1+3D+Artist+%26+Game+Developer;%F0%9F%8E%A8+Check+out+my+portfolio"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -16,7 +19,7 @@ I'm a passionate developer who loves turning ideas into code. Here's what I'm up
 
 - 🔭 Currently exploring advanced networking concepts
 - 🤝 Looking to collaborate on innovative projects
-- 🎯 2025 Goals: 
+- 🎯 2026 Goals: 
   - Master AI/ML fundamentals
   - Contribute to open-source projects
   - Build impactful applications
@@ -34,7 +37,7 @@ I'm a passionate developer who loves turning ideas into code. Here's what I'm up
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/IdrisFallout#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/IdrisFallout#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Email](./img/gmail-icon.svg)](mailto:business@waithakasam.com)
+[![Email](./img/gmail-icon.svg)](mailto:dev@waithakasam.com)
 
 ---
 
