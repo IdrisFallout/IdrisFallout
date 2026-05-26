@@ -65,12 +65,10 @@ I'm a passionate developer who loves turning ideas into code. Here's what I'm up
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=IdrisFallout&theme=github-dark&hide_border=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IdrisFallout&show_icons=true&theme=github_dark&hide_border=true">
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IdrisFallout&show_icons=true&theme=github_dark&hide_border=true"> -->
 </div>
 
 ---
-
-![Analytics](https://analytics.waithakasam.com/matomo.php?idsite=2&rec=1&url=https://github.com/IdrisFallout&utm_source=github&utm_medium=readme&utm_campaign=Profile)
 
 [website]: https://waithakasam.com?utm_source=github&utm_medium=profile&utm_campaign=github_profile
 [twitter]: https://twitter.com/IdrisFallout
